@@ -1,4 +1,4 @@
-# Music Hub made with V0
+# Music Hub made with ❤️
 
 A music streaming application built with Next.js, Prisma, and PostgreSQL.
 
